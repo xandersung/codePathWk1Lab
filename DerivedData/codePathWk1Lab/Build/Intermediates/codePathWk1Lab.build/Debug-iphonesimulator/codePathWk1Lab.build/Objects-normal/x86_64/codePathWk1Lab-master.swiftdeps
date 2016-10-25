@@ -1,0 +1,16 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "14bc263341110b04b6f16c4aeb317e0a"
+build_time: [530688864, 164698000]
+inputs:
+  "/Users/lqf510/Desktop/codePath/codePathWk1Lab/codePathWk1Lab/MoreViewController.swift": [527889753, 0]
+  "/Users/lqf510/Downloads/Transition Files/BaseTransition.swift": [530688467, 0]
+  "/Users/lqf510/Desktop/codePath/codePathWk1Lab/codePathWk1Lab/RequestsViewController.swift": [527891212, 0]
+  "/Users/lqf510/Desktop/codePath/codePathWk1Lab/codePathWk1Lab/ViewController.swift": [527887330, 0]
+  "/Users/lqf510/Downloads/Common.swift": [530308734, 0]
+  "/Users/lqf510/Desktop/codePath/codePathWk1Lab/codePathWk1Lab/AppDelegate.swift": [527887330, 0]
+  "/Users/lqf510/Desktop/codePath/codePathWk1Lab/codePathWk1Lab/NotificationsViewController.swift": [527891317, 0]
+  "/Users/lqf510/Downloads/Transition Files/FadeTransition.swift": [530685910, 0]
+  "/Users/lqf510/Desktop/codePath/codePathWk1Lab/PhotoViewController.swift": [530688863, 0]
+  "/Users/lqf510/Desktop/codePath/codePathWk1Lab/codePathWk1Lab/MessagesViewController.swift": [527888227, 0]
+  "/Users/lqf510/Desktop/codePath/codePathWk1Lab/codePathWk1Lab/NewsFeedViewController.swift": [530688496, 0]
+  "/Users/lqf510/Desktop/codePath/codePathWk1Lab/codePathWk1Lab/ThrillistDetailViewController.swift": [527893093, 0]

@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		95176E841DBEF68800AC8D62 /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95176E831DBEF68800AC8D62 /* PhotoViewController.swift */; };
+		95176E871DBF090100AC8D62 /* BaseTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95176E851DBF090100AC8D62 /* BaseTransition.swift */; };
+		95176E881DBF090100AC8D62 /* FadeTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95176E861DBF090100AC8D62 /* FadeTransition.swift */; };
+		95176E8A1DBF1E6900AC8D62 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95176E891DBF1E6900AC8D62 /* Common.swift */; };
+		95262E601D947C8A00FDFB9D /* ThrillistDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95262E5F1D947C8A00FDFB9D /* ThrillistDetailViewController.swift */; };
 		952DAEC21D9466E20075C532 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952DAEC11D9466E20075C532 /* AppDelegate.swift */; };
 		952DAEC41D9466E20075C532 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952DAEC31D9466E20075C532 /* ViewController.swift */; };
 		952DAEC71D9466E20075C532 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 952DAEC51D9466E20075C532 /* Main.storyboard */; };
@@ -14,6 +19,11 @@
 		952DAECC1D9466E20075C532 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 952DAECA1D9466E20075C532 /* LaunchScreen.storyboard */; };
 		952DAED71D9466E30075C532 /* codePathWk1LabTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952DAED61D9466E30075C532 /* codePathWk1LabTests.swift */; };
 		952DAEE21D9466E30075C532 /* codePathWk1LabUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952DAEE11D9466E30075C532 /* codePathWk1LabUITests.swift */; };
+		952DAEF21D946A640075C532 /* MessagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952DAEF11D946A640075C532 /* MessagesViewController.swift */; };
+		952DAEF41D946A760075C532 /* NewsFeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952DAEF31D946A760075C532 /* NewsFeedViewController.swift */; };
+		952DAEF61D946A8B0075C532 /* RequestsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952DAEF51D946A8B0075C532 /* RequestsViewController.swift */; };
+		952DAEF81D946A9A0075C532 /* NotificationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952DAEF71D946A9A0075C532 /* NotificationsViewController.swift */; };
+		952DAEFA1D946AA50075C532 /* MoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952DAEF91D946AA50075C532 /* MoreViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +44,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		95176E831DBEF68800AC8D62 /* PhotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PhotoViewController.swift; path = ../PhotoViewController.swift; sourceTree = "<group>"; };
+		95176E851DBF090100AC8D62 /* BaseTransition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BaseTransition.swift; path = "../../../../Downloads/Transition Files/BaseTransition.swift"; sourceTree = "<group>"; };
+		95176E861DBF090100AC8D62 /* FadeTransition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FadeTransition.swift; path = "../../../../Downloads/Transition Files/FadeTransition.swift"; sourceTree = "<group>"; };
+		95176E891DBF1E6900AC8D62 /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Common.swift; path = ../../../../Downloads/Common.swift; sourceTree = "<group>"; };
+		95262E5F1D947C8A00FDFB9D /* ThrillistDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThrillistDetailViewController.swift; sourceTree = "<group>"; };
 		952DAEBE1D9466E20075C532 /* codePathWk1Lab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = codePathWk1Lab.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		952DAEC11D9466E20075C532 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		952DAEC31D9466E20075C532 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +62,11 @@
 		952DAEDD1D9466E30075C532 /* codePathWk1LabUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = codePathWk1LabUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		952DAEE11D9466E30075C532 /* codePathWk1LabUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = codePathWk1LabUITests.swift; sourceTree = "<group>"; };
 		952DAEE31D9466E30075C532 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		952DAEF11D946A640075C532 /* MessagesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MessagesViewController.swift; sourceTree = "<group>"; };
+		952DAEF31D946A760075C532 /* NewsFeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewsFeedViewController.swift; sourceTree = "<group>"; };
+		952DAEF51D946A8B0075C532 /* RequestsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestsViewController.swift; sourceTree = "<group>"; };
+		952DAEF71D946A9A0075C532 /* NotificationsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotificationsViewController.swift; sourceTree = "<group>"; };
+		952DAEF91D946AA50075C532 /* MoreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoreViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +117,19 @@
 		952DAEC01D9466E20075C532 /* codePathWk1Lab */ = {
 			isa = PBXGroup;
 			children = (
+				95176E831DBEF68800AC8D62 /* PhotoViewController.swift */,
 				952DAEC11D9466E20075C532 /* AppDelegate.swift */,
 				952DAEC31D9466E20075C532 /* ViewController.swift */,
 				952DAEC51D9466E20075C532 /* Main.storyboard */,
+				95176E851DBF090100AC8D62 /* BaseTransition.swift */,
+				95176E891DBF1E6900AC8D62 /* Common.swift */,
+				95176E861DBF090100AC8D62 /* FadeTransition.swift */,
+				95262E5F1D947C8A00FDFB9D /* ThrillistDetailViewController.swift */,
+				952DAEF31D946A760075C532 /* NewsFeedViewController.swift */,
+				952DAEF51D946A8B0075C532 /* RequestsViewController.swift */,
+				952DAEF11D946A640075C532 /* MessagesViewController.swift */,
+				952DAEF71D946A9A0075C532 /* NotificationsViewController.swift */,
+				952DAEF91D946AA50075C532 /* MoreViewController.swift */,
 				952DAEC81D9466E20075C532 /* Assets.xcassets */,
 				952DAECA1D9466E20075C532 /* LaunchScreen.storyboard */,
 				952DAECD1D9466E20075C532 /* Info.plist */,
@@ -259,8 +289,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				952DAEFA1D946AA50075C532 /* MoreViewController.swift in Sources */,
+				95176E871DBF090100AC8D62 /* BaseTransition.swift in Sources */,
+				952DAEF61D946A8B0075C532 /* RequestsViewController.swift in Sources */,
 				952DAEC41D9466E20075C532 /* ViewController.swift in Sources */,
+				95176E8A1DBF1E6900AC8D62 /* Common.swift in Sources */,
 				952DAEC21D9466E20075C532 /* AppDelegate.swift in Sources */,
+				952DAEF81D946A9A0075C532 /* NotificationsViewController.swift in Sources */,
+				95176E881DBF090100AC8D62 /* FadeTransition.swift in Sources */,
+				95176E841DBEF68800AC8D62 /* PhotoViewController.swift in Sources */,
+				952DAEF21D946A640075C532 /* MessagesViewController.swift in Sources */,
+				952DAEF41D946A760075C532 /* NewsFeedViewController.swift in Sources */,
+				95262E601D947C8A00FDFB9D /* ThrillistDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -503,6 +543,7 @@
 				952DAEE81D9466E30075C532 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		952DAEE91D9466E30075C532 /* Build configuration list for PBXNativeTarget "codePathWk1LabTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +552,7 @@
 				952DAEEB1D9466E30075C532 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		952DAEEC1D9466E30075C532 /* Build configuration list for PBXNativeTarget "codePathWk1LabUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +561,7 @@
 				952DAEEE1D9466E30075C532 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
